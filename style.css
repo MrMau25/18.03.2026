@@ -3,14 +3,24 @@
     margin: 0;
 }
 
+.caja1{
+  margin-bottom:50px;
+}
+
+.caja2{
+  margin-top:30px;
+}
+
+
 .box-one{
     background-color: #eb5757;
     padding: 10px;
     height: 100px;
     width: 100px;
-    border: 30px solid #9b51e0;
+    border: 20px solid #9b51e0;
     margin: 60px;
      font-size: 40px;
+     box-sizing: border-box;
 }
 
 .box-two{
